@@ -59,7 +59,7 @@ Everything you need to successfully replicate Alembic on your own machine:
 ---
 
 > [!NOTE]
-> **Pnuematics**<br>
+> **Pnuematics and Noise**<br>
 > *"This toolhead uses pressurized air, it is not the kind you think of filling up tires or tools. The pumps used are more like a fish tank or medical equipment pumps.   It can be built and ran quietly, without the noise many people expect to hear from such systems.  There is another project from Alchemical-3D called "Pnuema" in development which will solve these and other concerns in a professional and quiet package.  When this project is ready, it will also be found in this github.   In the mean time, you can use other pumps and systems you might find attached to other Berd Air solutions*  
 
 ---
