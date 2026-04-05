@@ -7,7 +7,9 @@
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-Alchemical--3D-purple)](#)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-A3DP-orange)](#)
 
-A highly specialized, ultra-lightweight toolhead designed for the Alchemical-3D ecosystem and A3DP gantry kits. Alembic replaces bulky fans with a rigid, compressed-air cooling architecture.
+A highly specialized, ultra-lightweight toolhead designed for the Alchemical-3D ecosystem and A3DP gantry kits. Alembic replaces bulky fans with a rigid, compressed-air cooling architecture.  This toolhead is currently in the Alpha phase of development with working models.  As this toolhead moves towards Beta phase, builders can expect changes, some of which may require additional parts if upgrades are performed.
+
+
 
 <p align="center">
   <img src="Images/full_images/alembic_angle_down.png" width="45%" alt="Alembic Angle Down" />
