@@ -120,3 +120,12 @@ If you are using a BDsensor, install the retainer and clamp. A 0.6mm shim is pro
 
 ### End of Assembly
 The Alembic toolhead is now assembled.
+
+***
+
+> ☕ **Did you find this guide helpful?** 
+> 
+> My projects are open-source and free for the community. If you've enjoyed my designs and want to support my work, consider [leaving me a tip on Ko-fi](https://ko-fi.com/alchemical3d)! 
+>
+> [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
+
