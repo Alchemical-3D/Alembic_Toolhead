@@ -69,3 +69,11 @@ Everything you need to successfully replicate Alembic on your own machine:
 <p align="center">
   <img src="Images/full_images/alembic_face.png" width="60%" alt="Alembic Face View" style="border-radius:10px;" />
 </p>
+
+***
+
+> ☕ **Did you find this guide helpful?** 
+> 
+> My projects are open-source and free for the community. If you've enjoyed my designs and want to support my work, consider [leaving me a tip on Ko-fi](https://ko-fi.com/alchemical3d)! 
+>
+> [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
