@@ -4,7 +4,7 @@ Welcome to the assembly guide for the Alembic toolhead.
 
 > [!CAUTION]
 > **Important Torque Notice:**
-> The milled portions of this toolhead are **aluminum**—this includes the carriage, the extruder, and the mounting plate for the hotend. Fasteners going into these aluminum parts can be tightened firmly to proper torques ~ 1.2 Nm (10.6 in-lbs).
+> The milled portions of this toolhead are **aluminum**—this includes the carriage, the extruder, and the mounting plate for the hotend. Fasteners going into these aluminum parts can be tightened to proper torques ~ 1.2 Nm (10.6 in-lbs).
 > 
 > However, **the rest of the parts are 3D-printed and SHOULD NOT be overtightened.** Stop turning as soon as the plastic begins to compress.
 
