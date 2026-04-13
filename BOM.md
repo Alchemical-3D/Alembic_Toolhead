@@ -48,6 +48,6 @@ Print these out using the guidelines specified in the [Print Settings](Print_Set
 | **[Extruder](https://advanced3dprinting.com/products/fxd)** | 1 | A3DP FXD Extruder (Supports NEMA 14). |
 | **[Hotend](https://advanced3dprinting.com/products/takoto-hotend?_pos=3&_sid=1122f6a8f&_ss=r)** | 1 | Takoto/Dragon Hotend. |
 | **[Hotend Cooling Fan](https://kb-3d.com/store/fans/3684-2510-ball-bearing-cooling-fan-24v-1740693669311.html?affp=6182)** | 1 | 2510 Fan for the Takoto/Dragon heatbreak. |
-| **Filament Umbilical Tube** | 1 | Standard PTFE Bowden Tube. |
+| **[Filament Umbilical Tube](https://kb-3d.com/store/hardware/238-ptfe-tubing-3125-id-4762-od-black-per-foot.html?affp=6182)** | 1 | Standard PTFE Bowden Tube. |
 | **[CAN / Wiring Umbilical](https://kb-3d.com/store/wiring-connectors/792-igus-chainflex-control-cable-cf9-05-04-per-foot-1674670790036.html?affp=6182)** | 1 | Igus Chainflex cable. |
 | **[Bed Probe (Optional)](https://www.pandapi3d.com/product-page/bed-distance-sensorm)** | 1 | BDsensor. |
