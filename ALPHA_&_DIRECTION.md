@@ -41,7 +41,7 @@ As we prepare the transition from Alpha to Beta, significant improvements are be
 
 ## 📣 We Need Your Feedback!
 
-Because Alembic relies heavily on unconventional methodology (scalpel-like air pressure vs. ambient CFM washing), **community feedback is absolutely critical** for optimizing the performance of the toolhead.
+Because Alembic relies heavily on unconventional methodology, **community feedback is exceptionally helpful** for optimizing the performance of the toolhead.
 
 If you are an Alpha builder or are interested in the project, we want to hear from you! Please share your prints, airflow observations, and suggestions for improvements.
 
