@@ -32,8 +32,8 @@ As we prepare the transition from Alpha to Beta, significant improvements are be
 > 
 > - **Expanded Extruder Compatibility:** Designing adapters and core mounts to support a wider array of popular extruders beyond the A3DP FXD.
 > - **Expanded Hotend Compatibility:** Bringing support for additional high-flow and standard hotends beyond Takoto and Dragon. 
-> - **Airflow Optimization:** Continuous iterations and tuning to the internal pneumatic routing and nozzle exit geometry to maximize cooling efficiency.
-> - **Weight Reduction & Structural Tuning:** Refining the carriage geometry to shave off extra grams without sacrificing the rigidity that the integrated aluminum tubing provides.
+> - **Airflow Optimization:** Continuous iterations and tuning to the internal pneumatic routing to maximize cooling efficiency.
+> - **Weight Reduction & Structural Tuning:** Refining the carriage geometry to shave off extra grams without sacrificing the rigidity.
 
 *(Note: Features and concepts listed here are subject to change based on testing constraints, empirical results, and community feedback.)*
 
