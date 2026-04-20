@@ -7,7 +7,7 @@
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-Alchemical--3D-purple)](#)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-A3DP-orange)](#)
 
-A highly specialized, ultra-lightweight toolhead designed for the Alchemical-3D ecosystem and A3DP gantry kits. Alembic replaces bulky fans with a rigid, compressed-air cooling architecture.  This toolhead is currently in the Alpha phase of development with working models.  As this toolhead moves towards Beta phase, builders can expect changes, some of which may require additional parts if upgrades are performed.
+A highly specialized, ultra-lightweight toolhead designed for the Alchemical-3D ecosystem and A3DP gantry kits. Alembic replaces bulky fans with a rigid, compressed-air cooling architecture.  This toolhead is currently in the Alpha phase of development with working models.  Please review our **[Alpha State & Development Direction](ALPHA_&_DIRECTION.md)** document for more details on support, the project roadmap, and how to provide feedback.
 
 
 
@@ -55,6 +55,7 @@ Everything you need to successfully replicate Alembic on your own machine:
 | 📋 **[Bill of Materials (BOM)](BOM.md)** | The comprehensive checklist of printed parts, heat sets, hardware, and pneumatics needed. |
 | 🛠️ **[Assembly Guide](Assembly_Guide.md)** | A fully-illustrated, step-by-step mastercloth for putting the Alembic together safely. |
 | ⚙️ **[Print Settings](Print_Settings.md)** | Essential slicer configurations, material recommendations, and orientation rules. |
+| 🧭 **[Alpha State & Direction](ALPHA_&_DIRECTION.md)** | Current hardware support, active development roadmap, and how to provide feedback. |
 
 ---
 
