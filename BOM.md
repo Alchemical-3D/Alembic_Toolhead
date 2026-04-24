@@ -28,18 +28,18 @@ Print these out using the guidelines specified in the [Print Settings](Print_Set
 | Item | Qty (Est.) | Description |
 | --- | :---: | --- |
 | **[M3 Heat Set Inserts](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html?affp=6182)** | ~4 | Standard M3 (typically 5mm x 4mm). Needed at Intake and Strain Relief. |
-| **[M3 x 65mm Cap/Button Head](https://amzn.to/4cF7oMF)** | ~2 | Full length of the toolhead carriage, vertically. |
-| **[M3 x 8mm Cap/Button Head](https://amzn.to/4dEo5Jg)** | ~8 | General assembly screws. |
-| **[M3 x 20mm Cap/Button Head](https://amzn.to/4dEo5Jg)** | ~2 | For securing the pneumatic strain relief. |
-| **[M3 x 24mm Cap/Button Head](https://amzn.to/4dEo5Jg)**| ~2 | Passing through front of fan baffle and manifold into the carriage. |
+| **[M3 x 65mm Cap/Button Head](https://amzn.to/4vQRHtp)** | ~2 | Full length of the toolhead carriage, vertically. |
+| **[M3 x 8mm Cap/Button Head](https://amzn.to/3QIvw8G)** | ~8 | General assembly screws. |
+| **[M3 x 20mm Cap/Button Head](https://amzn.to/3QIvw8G)** | ~2 | For securing the pneumatic strain relief. |
+| **[M3 x 24mm Cap/Button Head](https://amzn.to/3QIvw8G)**| ~2 | Passing through front of fan baffle and manifold into the carriage. |
 | **[M3 Grub Screws](https://kb-3d.com/store/inserts-fasteners-adhesives/870-alloy-set-screw-m3-x-05-x-4mm-cup-point-1656776837904.html?affp=6182)** | ~2 | Secure the aluminum tubes into the lower body. |
-| **[Aluminum Tube 5mm OD x 3mm](https://amzn.to/4tOAfnQ)** | 2 |~ 55mm ID Aluminum tube. |
-| **[O-Ring 9x2 (23/64 x 5/64)"](https://amzn.to/4stAOlO)** | 2 | For pneumatic sealing. Check diameter against the printed groove. |
+| **[Aluminum Tube 5mm OD x 3mm](https://amzn.to/48mbqHu)** | 2 |~ 55mm ID Aluminum tube. |
+| **[O-Ring 9x2 (23/64 x 5/64)"](https://amzn.to/4d411CT)** | 2 | For pneumatic sealing. Check diameter against the printed groove. |
 | **[PTFE Bowden Fitting](https://kb-3d.com/store/e3d/313-e3d-threaded-bowden-coupling-175-1644689893776.html?affp=6182)** | 1 | PC4-M10 Bowden Pass-Through |
-| **[Part Cooling Tube](https://amzn.to/480CWKl)** | 1 | 6mm OD x 4mm ID Pneumatic Tube and fittings. |
+| **[Part Cooling Tube](https://amzn.to/4cFbqoF)** | 1 | 6mm OD x 4mm ID Pneumatic Tube and fittings. |
 | **[M2 Heat Set Inserts](https://kb-3d.com/store/inserts-fasteners-adhesives/602-brass-heat-set-threaded-insert-for-plastic-m2x35x3mm-1656874172023.html?affp=6182)** | ~2 | Standard M2 (typically 3.5mm x 3mm). Probe mount only. (Optional) |
-| **[M2 x 10mm BHCS](https://amzn.to/4t2YePW)** | ~1 | For securing the BDsensor retainer and clamp. (Optional) |
-| **[M2 x 8mm BHCS](https://amzn.to/4t2YePW)** | ~1 | For securing the BDsensor retainer and clamp. (Optional) |
+| **[M2 x 10mm BHCS](https://amzn.to/4vUwuis)** | ~1 | For securing the BDsensor retainer and clamp. (Optional) |
+| **[M2 x 8mm BHCS](https://amzn.to/4vUwuis)** | ~1 | For securing the BDsensor retainer and clamp. (Optional) |
 
 ## 3. Electronics and Hardware
 
