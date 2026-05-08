@@ -36,6 +36,10 @@ By integrating aluminum tubing directly into the structural integrity of the car
 > **Sledgehammer vs. Scalpel**<br>
 > *"While traditional systems focus on brute-forcing CFM to wash the area with ambient cooling, Alembic focuses on exact air placement and extreme air speed to achieve superior results. Where CPAP configs are the sledgehammer... Alembic is the scalpel."*
 
+> [!TIP]
+> **Pneumatics and Compatible Systems**<br>
+> *This toolhead uses pressurized air (similar to quiet aquarium or medical equipment pumps, rather than loud shop compressors). If you're interested in this project, check out the **[Pneuma Part Cooling](https://github.com/Alchemical-3D/Pneuma_Remote_Air)** project! It is a companion project from Alchemical-3D that provides a professional, quiet, and high-performance pneumatic air supply designed specifically to integrate seamlessly with Alembic.*
+
 
 ## ✨ Key Specifications & Features
 
@@ -57,12 +61,6 @@ Everything you need to successfully replicate Alembic on your own machine:
 | 🛠️ **[Assembly Guide](Assembly_Guide.md)** | A fully-illustrated, step-by-step mastercloth for putting the Alembic together safely. |
 | ⚙️ **[Print Settings](Print_Settings.md)** | Essential slicer configurations, material recommendations, and orientation rules. |
 | 🧭 **[Alpha State & Direction](ALPHA_&_DIRECTION.md)** | Current hardware support, active development roadmap, and how to provide feedback. |
-
----
-
-> [!TIP]
-> **Pneumatics and Compatible Systems**<br>
-> *This toolhead uses pressurized air (similar to quiet aquarium or medical equipment pumps, rather than loud shop compressors). If you're interested in this project, check out the **[Pneuma Part Cooling](https://github.com/Alchemical-3D/Pneuma_Remote_Air)** project! It is a companion project from Alchemical-3D that provides a professional, quiet, and high-performance pneumatic air supply designed specifically to integrate seamlessly with Alembic.*
 
 ---
 
