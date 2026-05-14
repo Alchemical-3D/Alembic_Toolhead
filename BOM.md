@@ -33,7 +33,7 @@ Print these out using the guidelines specified in the [Print Settings](Print_Set
 | **[M3 x 20mm Cap/Button Head](https://amzn.to/3QIvw8G)** | ~2 | For securing the pneumatic strain relief. |
 | **[M3 x 24mm Cap/Button Head](https://amzn.to/3QIvw8G)**| ~2 | Passing through front of fan baffle and manifold into the carriage. |
 | **[M3 Grub Screws](https://kb-3d.com/store/inserts-fasteners-adhesives/870-alloy-set-screw-m3-x-05-x-4mm-cup-point-1656776837904.html?affp=6182)** | ~2 | Secure the aluminum tubes into the lower body. |
-| **[Aluminum Tube 5mm OD x 3mm](https://amzn.to/48mbqHu)** | 2 |~ 55mm ID Aluminum tube. |
+| **[Aluminum Tube 5mm OD x 3mm](https://amzn.to/4ntsNw5)** | 2 |~ 55mm ID Aluminum tube. |
 | **[O-Ring 9x2 (23/64 x 5/64)"](https://amzn.to/4d411CT)** | 2 | For pneumatic sealing. Check diameter against the printed groove. |
 | **[PTFE Bowden Fitting](https://kb-3d.com/store/e3d/313-e3d-threaded-bowden-coupling-175-1644689893776.html?affp=6182)** | 1 | PC4-M10 Bowden Pass-Through |
 | **[Part Cooling Tube](https://amzn.to/4cFbqoF)** | 1 | 6mm OD x 4mm ID Pneumatic Tube and fittings. |
