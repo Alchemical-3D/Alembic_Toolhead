@@ -45,7 +45,7 @@ Print these out using the guidelines specified in the [Print Settings](Print_Set
 
 | Item | Qty | Description |
 | --- | :---: | --- |
-| **[Extruder](https://advanced3dprinting.com/products/fxd)** | 1 | A3DP FXD Extruder (Supports NEMA 14). |
+| **[Extruder](https://kb-3d.com/store/extruders-hotends/9466-a3dp-fxd-fixed-gear-extruder-v11-1776099901694.html?affp=6182)** | 1 | A3DP FXD Extruder (Supports NEMA 14). |
 | **[Hotend](https://advanced3dprinting.com/products/takoto-hotend?_pos=3&_sid=1122f6a8f&_ss=r)** | 1 | Takoto/Dragon Hotend. |
 | **[Hotend Cooling Fan](https://kb-3d.com/store/fans/3684-2510-ball-bearing-cooling-fan-24v-1740693669311.html?affp=6182)** | 1 | 2510 Fan for the Takoto/Dragon heatbreak. |
 | **[Filament Umbilical Tube](https://kb-3d.com/store/hardware/238-ptfe-tubing-3125-id-4762-od-black-per-foot.html?affp=6182)** | 1 | Standard PTFE Bowden Tube. |
