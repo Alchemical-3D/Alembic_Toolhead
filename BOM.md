@@ -22,7 +22,7 @@ Print these components using the material and slicer guidelines specified in the
 | `Chainflex_Clamp_Main.stl` | 1 | Outer clamp half for securing the electrical/pneumatic umbilical bundle. |
 | `Chainflex_Clamp_Base.stl` | 1 | Inner base support for the umbilical strain relief. |
 | `Pnuematic_Strain_Relief.stl` | 1 | Upper pneumatic tube strain-relief block *(note filename spelling in `STL_Files/`)*. |
-| `Alembic_Toolhead_V201 - Intake_6mmOD.step` | 1 | Upper pneumatic intake block (`PC4-M10` port; provided as STEP in [`STEP_Files/`](STEP_Files)—export to STL for slicing until standalone STL upload). |
+| `Intake_6mmOD.stl` | 1 | Upper pneumatic intake block (`PC4-M10` port). |
 | `Sensor_Retainer.stl` *or* `Sensor_Retainer_Dragon-MZE.stl` | 1 | Retains the BDsensor probe—choose Takoto (`Sensor_Retainer.stl`) or Dragon/MZE variant. *(Optional)* |
 | `BD_Mod_Clamp.stl` | 1 | Clamp for securing the BDsensor module. *(Optional)* |
 | `Shim_06mm_BDsensor.stl` *or* `Shim_56_BDsensor_Dragon-MZE.stl` | 1 | Offset shim for dialing in nozzle-to-BDsensor height—choose the matching height shim from [`STL_Files/`](STL_Files) for your hotend stack. *(Optional)* |
